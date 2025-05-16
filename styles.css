@@ -1,0 +1,39 @@
+/* Add this to your existing CSS file
+
+.not-found {
+  display: none;
+  text-align: center;
+  margin: 50px 0;
+  animation: fadeIn 1s ease;
+  padding: 20px;
+}
+
+.not-found img {
+  width: 120px;
+  opacity: 0.7;
+  margin-bottom: 20px;
+  filter: drop-shadow(0 5px 15px rgba(0, 0, 0, 0.2));
+}
+
+.not-found .text {
+  color: var(--light-color);
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.not-found .error-tip {
+  color: var(--light-color);
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+/* Search animation */
+/* .searching .search-box {
+  border-color: var(--accent-color);
+  box-shadow: 0 0 15px rgba(76, 201, 240, 0.3);
+}
+
+.searching .search-box input {
+  font-weight: 600;
+} */ */
